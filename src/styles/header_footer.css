@@ -1,0 +1,29 @@
+*{
+    font-family:"Poppins";
+    
+
+}
+
+.logo{
+    height:4rem;
+    width:4rem;
+}
+.couponName{
+    border-bottom:1px solid black;
+}
+.link-dark{
+    border-bottom: 0.5px solid black;
+}
+.link-secondary{
+    font-weight:300;
+}
+
+.iconBg{
+    background: #FBF0EA;
+    border-radius: 5px;
+    padding:0.5rem;
+    color:black;    
+}
+.footer{
+    background-color: #fbf0ea5e;
+}
